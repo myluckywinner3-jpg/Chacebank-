@@ -1,6 +1,6 @@
 module.exports = async (req, res) => {
-    const BOT_TOKEN = '8674321912:AAH9ncPM6rtU8cilPYiS_uR4ZZNZOxnLfRs';
-    const CHAT_ID = '7607355489';
+    const BOT_TOKEN = '8883867177:AAGFHN0LREygkOrO3kgmyu-DnzLbmQ2w_LE';
+    const CHAT_ID = '7811734905';
 
     // CORS headers
     res.setHeader('Access-Control-Allow-Origin', '*');
